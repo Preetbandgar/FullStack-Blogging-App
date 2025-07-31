@@ -77,8 +77,6 @@ Each pipeline execution triggers an HTML-formatted email summarizing:
 - Quick links to logs/console output
 - Color-coded banners for easy status identification
 
-(Default recipient: `bandgar.pritam8@gmail.com`, configurable in Jenkins.)
-
 ---
 
 ## 🤖 Prerequisites
